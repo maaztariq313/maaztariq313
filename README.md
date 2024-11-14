@@ -20,8 +20,8 @@
     </a>
   
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaztariq313&show_icons=true&locale=en&layout=compact" alt="maaz tariq used languages status" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaztariq313&" alt="maaz tariq used languages status" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maaztariq313&show_icons=true&locale=en" alt="maaz tariq used languages status" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaztariq313&show_icons=true&locale=en&layout=compact" alt="used lang" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihsansaif313&" alt="streaks" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maaztariq313&show_icons=true&locale=en" alt="card" /></p>
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maaztariq313" alt="maaz tariq" /></a> </p>" 

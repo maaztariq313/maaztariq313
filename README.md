@@ -20,7 +20,7 @@
     </a>
   
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaztariq313&show_icons=true&locale=en&layout=compact" alt="used lang" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaztariq313&" alt="streaks" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maaztariq313&show_icons=true&locale=en" alt="card" /></p>
 </p>

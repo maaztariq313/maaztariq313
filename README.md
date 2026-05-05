@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MAAZ TARIQ</h1>
 <h3 align="center">Still learning</h3>
 
-- 💬 Ask me about C++, Java script, Html, Css
+- 💬 Ask me about REACT, Java script, Database , full Stack development .
 
 - 📫 How to reach me *maaztariq341@gmail.com*
 
@@ -15,7 +15,7 @@
     <a href="https://www.instagram.com/maz._.khnn/profilecard/?igsh=ZmpoY3NyM2Q3aDdv" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maaz tariq or Maaz Khan Instagram account" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/maaz-tariq-38a034339/" target="_blank">
+    <a href="https://www.linkedin.com/in/maaz-tariq-9b3547388/" target="_blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="maaz tariq or Maaz Khan LinkedIn profile" height="30" width="30" />
     </a>
   

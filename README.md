@@ -123,37 +123,7 @@ SEO & Digital Growth
 
 I'm constantly experimenting with new technologies and looking for better ways to combine **software + AI + automation** to solve business problems.
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maaztariq313&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Maaz Tariq GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaztariq313&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Maaz Tariq Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=maaztariq313&theme=tokyonight&hide_border=true" alt="Maaz Tariq GitHub Streak"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=maaztariq313&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="Maaz Tariq GitHub Trophies"/>
-
-</div>
-
----
 
 
 # 💡 What I Believe
